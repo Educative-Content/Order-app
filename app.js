@@ -10,7 +10,7 @@ const LAMBDA_FUNCTION_URL = process.env.LAMBDA_FUNCTION_URL;
 
 // Product List (Dropdown Options)
 const products = [
-  { name: "Cricket Bat", id: "SPORT123", category: "Sports" },
+  { name: "Football", id: "SPORT123", category: "Sports" },
   { name: "T-Shirt", id: "CLOTH123", category: "Clothing" }
 ];
 
